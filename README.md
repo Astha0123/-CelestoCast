@@ -9,4 +9,5 @@ This Android Weather App fetches real-time weather information using the OpenWea
 - JSON Handling: Gson for efficient JSON parsing
 ## API Used
 This app utilizes the OpenWeatherMap API to fetch accurate and reliable weather data.
-
+## Screenshots
+![Screenshot_20240103_090659-imageonline co-merged](https://github.com/Astha0123/-CelestoCast/assets/97621624/2fb8c2ae-1333-41a9-9232-a2a02fc3f8a8)
